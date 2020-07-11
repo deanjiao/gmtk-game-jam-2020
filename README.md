@@ -4,8 +4,8 @@ July 10, 2020
 
 Authors: Dean Jiao, Ruju Jambusaria
 
-Welcome to Grapple Panic!
+Welcome to Potion Panic!
 
-Synopsis: Your grapple hook gun has broken down and is firing willy-nilly! Can you reach the summit without falling?
+Synopsis: It's time to brew a potion! The headmaster isn't around, but luckily you've been given the recipe! What could possibly go wrong?
 
-Controls: 
+Controls: Click and drag
