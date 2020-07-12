@@ -11,3 +11,5 @@ Synopsis: It's time to brew a potion! The headmaster isn't around, but luckily y
 Controls: Click and drag
 
 POV: First-person
+
+Out of Control: Ingredients can be out of control and explode on you if you don't keep up.
