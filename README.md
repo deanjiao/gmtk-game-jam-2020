@@ -12,4 +12,6 @@ Controls: Click and drag
 
 POV: First-person
 
-Out of Control: Ingredients can be out of control and explode on you if you don't keep up.
+Out of Control: Ingredients can be out of control and explode on you if you don't keep up. 
+
+Gameplay: Follow the recipe to make the potion. Things will go wrong along the way: you may have to clean up the messes or start over and try again. Good luck! 
