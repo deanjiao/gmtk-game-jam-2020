@@ -9,3 +9,5 @@ Welcome to Potion Panic!
 Synopsis: It's time to brew a potion! The headmaster isn't around, but luckily you've been given the recipe! What could possibly go wrong?
 
 Controls: Click and drag
+
+POV: First-person
